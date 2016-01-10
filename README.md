@@ -1,2 +1,3 @@
 # CVideoCore
-A quick Swift system module for access to the Raspberry Pi VideoCore GPU
+
+This is a quick Swift system module for enabling access to the Raspberry Pi VideoCore GPU. I've only used it for brief tests on the Raspberry Pi 2. It requires the libraspberrypi and libraspberrypi-dev packages to be installed.
